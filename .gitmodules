@@ -1,0 +1,3 @@
+[submodule "submod/spacetime"]
+	path = submod/spacetime
+	url = https://github.com/spencermountain/spacetime.git
